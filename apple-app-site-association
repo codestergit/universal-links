@@ -4,7 +4,7 @@
     "details": [
     {
       "appID": "DXK2N8YN8R.com.searshc.lionfish",
-      "paths": ["/raspberrypi.html/"]
+      "paths": ["*"]
     }
     ]
   }
